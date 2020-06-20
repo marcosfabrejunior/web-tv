@@ -1,4 +1,4 @@
-# toa-toa-tv
+# webtv-pei
 
 ## Project setup
 ```
